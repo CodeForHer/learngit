@@ -1,7 +1,0 @@
-Version1: Add content. This a Demofile.
-Version2: Add Time. 2019.12.27.
-Version3: Add Location. Shen Zhen.
-Version4: Add Author. HuiKwok.
-Version5: Add context.
-Version6: Add Tools. AirPlane
-Version7: Add SomeWords. Book Car
